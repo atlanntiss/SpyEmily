@@ -2,4 +2,4 @@ bs4
 pynput
 pypiwin32
 requests
-opencv-python==3.4.1.15
+opencv-python==4.2.0.32
